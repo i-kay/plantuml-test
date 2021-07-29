@@ -1,7 +1,7 @@
 @startuml
-Alice4 ..> Bob: Authentication Request
-Bob --> Alice4: Authentication Response
+Alice4 ..> Bob22: Authentication Request
+Bob22 --> Alice4: Authentication Response
 
-Alice4 -> Bob: Another authentication Request
-Alice4 <-- Bob: another authentication Response
+Alice4 -> Bob22: Another authentication Request
+Alice4 <-- Bob22: another authentication Response
 @enduml

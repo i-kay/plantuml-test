@@ -8,11 +8,11 @@ skinparam usecaseBorderThickness 0.4
 skinparam defaultFontSize 12
 skinparam rectangleBorderThickness 1
 
-rectangle "Main" {
+rectangle "Main2" {
   (main.view)
   (singleton)
 }
-rectangle "Base" {
+rectangle "Base2" {
   (base.component)
   (component)
   (model)
